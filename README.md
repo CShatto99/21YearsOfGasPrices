@@ -8,9 +8,9 @@ The requirements of the project included manipulating the data in various ways. 
 
 ### What I Learned
 
-* Used the principles of OOP to structure the code.
-* Utilized the c++ Standard Template Library to implement the algorithms.
-* Manipulated input files and generated output files using the fstream object class.
+* Read and modified data from input files to generated output files using the C++ fstream object class.
+* Used principles of OOP to store and manipulate data entries.
+* Utilized maps and arrays from the C++ Standard Template Library to solve searching and sorting.
 
 ### Implementing The Member Functions
 
